@@ -1,0 +1,16 @@
+{
+  "sampleData": {
+    "c47f9dcd-161c-4025-aa17-e9eca8c240f4": {
+      "payload": "sample_data/list_csv.csv"
+    },
+    "5d567881-4df1-414b-898f-6116b1e6f67a": {
+      "payload": "sample_data/json.json"
+    },
+    "344939a5-d005-4cc4-9709-cc5f828da161": {
+      "payload": "sample_data/json_1.json"
+    },
+    "0f8d4616-7a0d-4781-b5eb-f15a43aa516a": {
+      "payload": "sample_data/list_json.json"
+    }
+  }
+}
